@@ -2,22 +2,11 @@ p{
     
 }
 body{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Emigre';
     background-color: rgb(250, 236, 219);
 }
-.box{
-    margin: 5em;
-    margin-left:10em;
-    margin-right:10em;
-    padding:4em;
-    text-align: center;
-}
-#box1{
-    background-color: red;
-}
-#box2{
-    background-color: green;
-}
+
+
 #carouselExampleControls{
     width: 80%;
     margin: auto;
@@ -48,4 +37,26 @@ img {
   }
   h1{
       text-align: center;
+  }
+  .review{
+      margin: auto;
+      border: 2px solid rgb(184, 182, 182);
+      border-radius: 2%;
+      height: 10em;
+      width: 50%;
+      margin-top: 1em;
+      padding: 1em;
+  }
+  #spiderman{
+      width: 25%;
+      margin: auto;
+      align-self: center;
+      display: block;
+  }
+  p{
+      text-align: center;
+  }
+  .bio{
+      margin: 2em;
+      font-size: 20px;
   }
