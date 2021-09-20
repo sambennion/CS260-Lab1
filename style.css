@@ -58,9 +58,6 @@ img {
     /* Mobile Styles */
   
 @media only screen and (max-width: 400px) {
-    body{
-        width: 400px;
-    }
     #carouselExampleControls{
         width: 100%;
         margin: auto;
@@ -72,9 +69,6 @@ img {
 
 /* Tablet Styles */
 @media only screen and (min-width: 401px) and (max-width: 960px) {
-    body{
-        width: 960px;
-    }
     #carouselExampleControls{
         width: 100%;
         margin: auto;
